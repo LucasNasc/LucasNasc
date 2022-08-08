@@ -4,7 +4,7 @@
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucaspnascimento)
 
 <p align="center">
- <h3 align=justify> A software engineer with a passion for technology, developing solutions in various branches of the market with emphasis on banking systems and authentication processes. If can I help you in anything else about tecnology, please let me know, I'd be glad to help. I'm currently improving my blockchain skills, learning about Hyperledger, smart contracts, and so on..
+ <h3 align=justify> A software engineer with a passion for technology, developing solutions in various branches of the market with emphasis on banking systems and authentication processes. If can I help you with anything else about tecnology, please let me know, I'd be glad to help. I'm currently improving my blockchain skills, learning about Hyperledger, smart contracts, and so on..
  </h3>
 </p>
 
