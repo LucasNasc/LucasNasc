@@ -27,8 +27,6 @@
 - ![Bitbucket](https://img.icons8.com/color/30/bitbucket.png) <b> &nbsp;&nbsp;Bitbucket </b> 
 - ![Gitlab](https://img.icons8.com/color/30/gitlab.png)<b> &nbsp;&nbsp;GitLab </b> 
 - ![Git](https://img.icons8.com/color/30/git.png) <b> &nbsp;&nbsp;Git </b>
-- ![VueJS](https://img.icons8.com/color/30/vue-js.png) <b> &nbsp;&nbsp;VueJS </b> 
-- ![ReactJS](https://img.icons8.com/color/30/react-native.png) <b> &nbsp;&nbsp;ReactJS </b>
 - ![AngularJS](https://img.icons8.com/color/30/angularjs.png) <b> &nbsp;&nbsp;Angular 2+ </b>
 - ![Windows](https://img.icons8.com/color/30/windows-10.png) <b> &nbsp;&nbsp;Windows </b>
 - ![Linux](https://img.icons8.com/color/30/linux.png) <b> &nbsp;&nbsp;Linux </b>
