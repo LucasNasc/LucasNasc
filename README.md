@@ -6,7 +6,7 @@
 <p align="center">
  <h3 align=justify> As a software engineer with a strong foundation in backend development, I specialize in creating robust and scalable solutions with Java and Node.js. My core expertise lies in designing and implementing authentication and authorization processes, particularly in banking systems and other security-critical applications. </h3>
 <h3>
-Currently, I am expanding my skill set by learning Gleam language and Flutter, alongside advancing my knowledge of AWS cloud services, serverless architectures, and modern infrastructure patterns. I am always eager to share knowledge, collaborate, and explore innovative solutions. Feel free to reach out!
+Currently, I am expanding my skill set by learning RUST language and Flutter, alongside advancing my knowledge of AWS cloud services, serverless architectures, and modern infrastructure patterns. I am always eager to share knowledge, collaborate, and explore innovative solutions. Feel free to reach out!
  </h3>
 </p>
 
